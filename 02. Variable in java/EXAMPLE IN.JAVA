@@ -1,7 +1,7 @@
 //MAKE A PROGRAM THAT TAKES RADIUS OF A CIRCLE AS INPUT AND CALCULATES ITS RADIUS AREA AND PRINT OUTPUT 
 
 import java.util.Scanner;
-class ExampleIN{
+class EXAMPLEIN{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

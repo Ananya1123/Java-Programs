@@ -1,4 +1,4 @@
-public class VariableTypes {
+public class VARIABLETYPES{
     public static void main(String[] args){
         //Variable Declaration
         int a = 10;
