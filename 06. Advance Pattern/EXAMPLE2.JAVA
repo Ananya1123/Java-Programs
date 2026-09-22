@@ -1,7 +1,7 @@
 //PRINT THE PATTERN 
 import java.util.*; 
 
-public class EXAMPLE2 { 
+public class EXAMPLE2 {
     public static void main(String[] args) { 
         int n = 5; 
 
