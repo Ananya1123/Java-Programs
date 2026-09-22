@@ -9,7 +9,7 @@ public class EXAMPLE2 {
             for (int j = 1; j <= n - i; j++) { 
                 System.out.print(" "); 
             } 
-
+        //number- >print row number and row number of times 
             for (int j = 1; j <=5; j++) { 
                 System.out.print("*"); 
             } 
