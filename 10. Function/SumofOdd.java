@@ -8,8 +8,12 @@ public class SumofOdd {
         }
 
         int sum = 0;
-        for (int i = 1; i <= n; i += 2) {
-            sum += i;
+        for (int i = 1; i <= n; i++) {
+            if (i % 2 != 0) { // Check if the number is odd
+                sum = sum +i;
+            }
+
+        
         }
         return sum;
     }
