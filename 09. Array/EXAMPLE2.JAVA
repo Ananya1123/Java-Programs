@@ -7,7 +7,15 @@ public class EXAMPLE2{
         int numbers[] = new int[size];
 
         for (int i = 0; i < size; i++) {
-            System.out.println(numbers[i]);
+            numbers[i] = sc.nextInt();
         }
+
+        for(int i=0; i<numbers.length;i++)
+        {
+            System.out.println(numbers[i]);
+    
+            
+        }
+    
     }
 }
